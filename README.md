@@ -1,7 +1,7 @@
 
 
 <div align="center">
-        <img src="images (1).jpeg" alt="GIF" width="250" height="200"/>
+        <img src="https://i.imgur.com/38wvsie.jpeg" alt="GIF" width="200" height="200"/>
 </p>
 
 <div align="center">
