@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+Camila+Mwol's++Bio;Nothing+Here+Everything+in+repo;Will+create+bot+with+more+features)](https://bit.ly/2VM4lxF)
+## [![Typing SVG](https://readme-Typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+Camila+Mwol's++Bio;Nothing+Here+Everything+in+repo;Will+create+bot+with+more+features)](https://bit.ly/2VM4lxF)
 
  
 <h3 align="center">Contact Me:</h3>
